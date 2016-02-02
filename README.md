@@ -1,9 +1,9 @@
 # SE2 - MyTaxiService
 
 ##Group members
-* Antonio Iannacci [link to profile](https://github.com/antonioia)
-* Daniele Romanini [link to profile](https://github.com/daler3)
-* Federico Seri [link to profile](https://github.com/Timmy93)
+* Antonio Iannacci:  [link to profile](https://github.com/antonioia)
+* Daniele Romanini: [link to profile](https://github.com/daler3)
+* Federico Seri:  [link to profile](https://github.com/Timmy93)
 
 ##Documents to deliver:
 * **RASD:**

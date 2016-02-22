@@ -17,5 +17,5 @@
 [Download](https://github.com/daler3/se2project/blob/master/Deliveries/Project%20Plan%20-%20version%202%20-%20MyTaxiService%20-%20Iannacci_Romanini_Seri.pdf)
 
 * **SPENT TIME:**
-[Download](https://github.com/daler3/se2project/blob/master/Deliveries/Spent_Time%20-%20MytaxiService%20-%20Iannacci_Romanini_Seri.pdf)
+[Download](https://github.com/daler3/se2project/blob/master/Deliveries/Spent_Time%20-%20Iannacci_Romanini_Seri.pdf)
 

@@ -19,3 +19,10 @@
 * **SPENT TIME:**
 [Download](https://github.com/daler3/se2project/blob/master/Deliveries/Spent_Time%20-%20Iannacci_Romanini_Seri.pdf)
 
+##Group member:
+* **Antonio Iannacci:**
+[Download](https://github.com/antonioia)
+* **Daniele Romanini:**
+[Download](https://github.com/daler3)
+* **Federico Seri:**
+[Download](https://github.com/Timmy93)

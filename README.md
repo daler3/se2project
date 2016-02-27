@@ -21,8 +21,10 @@
 
 ##Group member:
 * **Antonio Iannacci:**
-[Download](https://github.com/antonioia)
+[Profilo Github](https://github.com/antonioia)
+
 * **Daniele Romanini:**
-[Download](https://github.com/daler3)
+[Profilo Github](https://github.com/daler3)
+
 * **Federico Seri:**
-[Download](https://github.com/Timmy93)
+[Profilo Github](https://github.com/Timmy93)

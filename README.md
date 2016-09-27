@@ -1,4 +1,7 @@
-# SE2 - MyTaxiService
+# Software Engineering 2 - MyTaxiService
+
+RASD, DesignDocument, TestPlanDocument for an application aiming tomanage the
+taxi service of a city
 
 ##Documents to deliver:
 * **RASD:**
